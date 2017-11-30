@@ -1,6 +1,7 @@
 .DS_Store
 dist
 npm-debug.log
+.npmrc
 node_modules
 scripts/scratch*
 test/integration/yaml_suite/log

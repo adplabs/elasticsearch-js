@@ -1,3 +1,5 @@
+NOTE: This package modifies package.json to use a version of chalk that was patched not to throw. See: https://github.com/chalk/chalk/pull/231#issuecomment-348251053
+
 # elasticsearch.js 14.0.0
 
 The official low-level Elasticsearch client for Node.js and the browser.
